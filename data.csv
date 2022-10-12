@@ -1,0 +1,3 @@
+Direction,car,motorbike,bus,truck
+Up,65,0,1,7
+Down,72,0,1,10
